@@ -22,14 +22,15 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/btnJogar"
+        android:id="@+id/btnSortear"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:onClick="alterarTexto"
-        android:text="@string/jogar"
+        android:text="@string/sortear"
         android:textSize="16sp"
         android:textStyle="bold"
+        android:backgroundTint="@color/backgroundBtn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
@@ -44,9 +45,10 @@
         android:layout_marginEnd="32dp"
         android:text="@string/nenhumNumero"
         android:textAlignment="center"
-        android:textSize="16sp"
+        android:textSize="24sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnJogar" />
+        app:layout_constraintTop_toBottomOf="@+id/btnSortear" />
 
 </android.support.constraint.ConstraintLayout>
