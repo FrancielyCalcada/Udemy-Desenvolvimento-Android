@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Interface Noticia</string>
+    <string name="titulo">Título da noticia</string>
+    <string name="data">00/00/0000</string>
+    <string name="descricao">Adicionar descricao da imagem</string>
+    <string name="noticia">Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia
+    Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia Texto noticia</string>
+    <string name="autor">Nome do autor</string>
+    <string name="proximo">Próximo</string>
+    <string name="anterior">Anterior</string>
+</resources>
